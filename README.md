@@ -18,7 +18,7 @@
 
 ## 🌟 Featured Projects
 
-### 🔹 Sign Language Translator
+### 🔹 Sign Language Translator (Curent)
 👉 [Open Project](https://moontasirmozumder.github.io/portfolio/sign-language-translator/sign-language-translator.html)
 
 ### 🔹 University CGPA & Transcript Calculator
