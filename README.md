@@ -30,6 +30,32 @@
 ### 🔹 Smart Kitchen Control & Security
 🏠 IoT based kitchen automation & protection system
 
+### 🔹 Smart Garden
+🏠 IoT based Smart Garden & Monitoring System
+
+
+### 🔹 Line Follower Robot
+🏠 IoT based Smart Garden & Monitoring System
+
+### 🔹 Bluetooth Car Soccer
+🏠 IoT based Smart Garden & Monitoring System
+
+### 🔹 WiFi / ESP Remote Car
+🏠 IoT based Smart Garden & Monitoring System
+
+### 🔹 Obstacle Avoiding Car
+🏠 IoT based Smart Garden & Monitoring System
+
+### 🔹 Multi Funtion Car
+1 PID Line Follower Mode ->Sensor
+2 Human Follower Mode ->Sensor
+3 Remote Control Mode
+A. IoT Control -> Internet
+B. WiFi Web Control->ESP
+C. Bluetooth Control -> ESP
+D. Gesture Control ->(ESP-NOW communication)
+E. Joystick Control ->(ESP-NOW communication)
+
 ---
 
 ## 📊 GitHub Stats
