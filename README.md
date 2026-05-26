@@ -28,23 +28,23 @@
 🔐 Smart warehouse monitoring & security system
 
 ### 🔹 Smart Kitchen Control & Security
-🏠 IoT based kitchen automation & protection system
+ IoT based kitchen automation & protection system
 
 ### 🔹 Smart Garden
-🏠 IoT based Smart Garden & Monitoring System
+ IoT based Smart Garden & Monitoring System
 
 
-### 🔹 Line Follower Robot
-🏠 IoT based Smart Garden & Monitoring System
+### 🔹 PID Line Follower Robot
+ Robot Car System
 
 ### 🔹 Bluetooth Car Soccer
-🏠 IoT based Smart Garden & Monitoring System
+Remort Car System
 
 ### 🔹 WiFi / ESP Remote Car
-🏠 IoT based Smart Garden & Monitoring System
+Remort Car System
 
 ### 🔹 Obstacle Avoiding Car
-🏠 IoT based Smart Garden & Monitoring System
+Remort Car System
 
 ### 🔹 Multi Funtion Car
 1 PID Line Follower Mode ->Sensor
