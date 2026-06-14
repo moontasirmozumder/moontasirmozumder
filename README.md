@@ -80,7 +80,7 @@ fun_fact: I turn coffee into circuits ☕ → 🔌
 ---
 
 ### 🏆 Multi-Function Smart Car
-> The most advanced of the fleet — a single car with **5 control modes**:
+> The most advanced of the fleet — a single car with **7 control modes**:
 >
 > | Mode | Type | Technology |
 > |------|------|-----------|
